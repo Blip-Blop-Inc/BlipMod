@@ -1,0 +1,82 @@
+{
+  "id_map": {
+    "DIMENSION": 1
+  },
+  "mod_elements": [
+    {
+      "name": "BlipPickaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlipIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlipOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlipPortalBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlipDimension",
+      "type": "dimension",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "Blip Blop",
+      "file": "blipblop",
+      "category": "master"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "tile.blipportalblock.name": "Blip Portal Block",
+      "item.blippickaxe.name": "Blip Pickaxe",
+      "item.blipdimension.name": "Blip Igniter",
+      "tile.blipore.name": "Blip Ore"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "blipmod",
+    "modName": "BlipMod",
+    "version": "1.0.0",
+    "author": "Games",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "lastOpenMCreatorVersion": "1.9.1"
+}

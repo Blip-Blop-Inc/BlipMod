@@ -1,0 +1,22 @@
+{
+  "group": "blipmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blipmod:blipingot"
+    },
+    {
+      "item": "blipmod:blipingot"
+    },
+    {
+      "item": "blipmod:blipingot"
+    },
+    {
+      "item": "blipmod:blipingot"
+    }
+  ],
+  "result": {
+    "item": "blipmod:blipportalblock",
+    "count": 1
+  }
+}

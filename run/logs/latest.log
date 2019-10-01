@@ -1,0 +1,193 @@
+[20:25:09] [main/INFO] [GradleStart]: Extra: []
+[20:25:09] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Games/.mcreator/gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[20:25:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:25:09] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:25:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[20:25:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:25:09] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[20:25:09] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_222, running on Windows 10:amd64:10.0, installed at C:\Users\Games\Documents\MCreator\jdk\jre
+[20:25:09] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[20:25:09] [main/ERROR] [FML]: Full: C:\Users\Games\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[20:25:09] [main/ERROR] [FML]: Trimmed: c:/users/games/.mcreator/gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[20:25:09] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[20:25:09] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[20:25:10] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[20:25:10] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[20:25:10] [main/INFO] [FML]: Searching C:\Users\Games\MCreatorWorkspaces\BlipMod\run\.\mods for mods
+[20:25:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[20:25:10] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[20:25:10] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[20:25:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:25:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:25:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[20:25:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:25:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:25:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:25:10] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[20:25:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:25:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:25:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[20:25:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:25:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:25:10] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[20:25:10] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player609
+[20:25:12] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[20:25:13] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_222, BellSoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), 
+	Memory: 149121816 bytes (142 MB) / 481296384 bytes (459 MB) up to 3801088000 bytes (3625 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 430.86' Renderer: 'GeForce GTX 1060 3GB/PCIe/SSE2'
+[20:25:13] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[20:25:13] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[20:25:13] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[20:25:13] [main/INFO] [FML]: Searching C:\Users\Games\MCreatorWorkspaces\BlipMod\run\.\mods for mods
+[20:25:13] [main/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[20:25:14] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, blipmod] at CLIENT
+[20:25:14] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, blipmod] at SERVER
+[20:25:14] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BlipMod
+[20:25:14] [main/INFO] [FML]: Processing ObjectHolder annotations
+[20:25:14] [main/INFO] [FML]: Found 1175 ObjectHolder annotations
+[20:25:14] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[20:25:14] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[20:25:14] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[20:25:14] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:25:14] [main/INFO] [FML]: OBJLoader: Domain blipmod has been added.
+[20:25:14] [main/INFO] [FML]: Applying holder lookups
+[20:25:14] [main/INFO] [FML]: Holder lookups applied
+[20:25:14] [main/INFO] [FML]: Applying holder lookups
+[20:25:14] [main/INFO] [FML]: Holder lookups applied
+[20:25:14] [main/INFO] [FML]: Applying holder lookups
+[20:25:14] [main/INFO] [FML]: Holder lookups applied
+[20:25:14] [main/INFO] [FML]: Applying holder lookups
+[20:25:14] [main/INFO] [FML]: Holder lookups applied
+[20:25:14] [main/INFO] [FML]: Injecting itemstacks
+[20:25:14] [main/INFO] [FML]: Itemstack injection complete
+[20:25:14] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[20:25:15] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 77050800 nanos
+[20:25:16] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[20:25:16] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[20:25:16] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:25:16] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[20:25:16] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[20:25:18] [main/INFO] [FML]: Max texture size: 16384
+[20:25:18] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[20:25:19] [main/INFO] [FML]: Applying holder lookups
+[20:25:19] [main/INFO] [FML]: Holder lookups applied
+[20:25:19] [main/INFO] [FML]: Injecting itemstacks
+[20:25:19] [main/INFO] [FML]: Itemstack injection complete
+[20:25:19] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[20:25:19] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]: The following texture errors were found.
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN blipmod
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]:   domain blipmod is missing 1 texture
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]:     domain blipmod has 1 location:
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]:       mod blipmod resources at C:\Users\Games\MCreatorWorkspaces\BlipMod\build\libs\modid-1.0.jar
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain blipmod are:
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/creeperface.png
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain blipmod
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[20:25:19] [main/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[20:25:20] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[20:25:25] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[20:25:25] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[20:25:25] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[20:25:25] [Server thread/INFO] [FML]: Applying holder lookups
+[20:25:25] [Server thread/INFO] [FML]: Holder lookups applied
+[20:25:25] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@58b3d882)
+[20:25:25] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[20:25:25] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@58b3d882)
+[20:25:25] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@58b3d882)
+[20:25:25] [Server thread/INFO] [FML]: Loading dimension 3 (New World) (net.minecraft.server.integrated.IntegratedServer@58b3d882)
+[20:25:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[20:25:26] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:25:27] [Server thread/INFO] [FML]: Unloading dimension 1
+[20:25:27] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 5, from 10
+[20:25:28] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[20:25:28] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[20:25:28] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2768,mcp@9.42,blipmod@1.0.0
+[20:25:28] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[20:25:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:25:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player609[local:E:1ed216c3] logged in with entity id 310 at (120.47857859576162, 72.0, 235.35318705048718)
+[20:25:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player609 joined the game
+[20:25:28] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[20:25:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[20:25:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/blipdimension
+[20:25:29] [pool-2-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@9e4ce83[id=1178851a-8246-318e-85f8-1ae4517330a2,name=Player609,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3181) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_222]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_222]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+[20:25:45] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 3 advancements
+[20:25:52] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 10 advancements
+[20:26:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player609: Set own game mode to Survival Mode]
+[20:26:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Survival Mode
+[20:26:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player609: Given [Chest] * 1 to Player609]
+[20:26:20] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Given [Chest] * 1 to Player609
+[20:26:20] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 11 advancements
+[20:27:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player609: Given [Egg] * 1 to Player609]
+[20:27:23] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Given [Egg] * 1 to Player609
+[20:27:23] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 12 advancements
+[20:27:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player609: Given [Egg] * 1 to Player609]
+[20:27:26] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Given [Egg] * 1 to Player609
+[20:27:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player609: Given [Egg] * 1 to Player609]
+[20:27:27] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Given [Egg] * 1 to Player609
+[20:27:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player609: Given [Egg] * 1 to Player609]
+[20:27:27] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Given [Egg] * 1 to Player609
+[20:27:56] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] There is no such item with name minecraft:blipportalblock
+[20:28:02] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] There is no such item with name minecraft:blip
+[20:28:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player609: Set own game mode to Creative Mode]
+[20:28:07] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Creative Mode
+[20:28:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player609: Set own game mode to Survival Mode]
+[20:28:13] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Survival Mode
+[20:29:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2630ms behind, skipping 52 tick(s)
+[20:30:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player609: Set own game mode to Survival Mode]
+[20:30:07] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Survival Mode
+[20:30:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player609: Set own game mode to Creative Mode]
+[20:30:10] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Creative Mode
+[20:30:24] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[20:30:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[20:30:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/blipdimension
+[20:30:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:30:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:30:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player609 lost connection: Disconnected
+[20:30:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player609 left the game
+[20:30:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[20:30:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:30:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[20:30:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/blipdimension
+[20:30:24] [Server thread/INFO] [FML]: Unloading dimension 0
+[20:30:24] [Server thread/INFO] [FML]: Unloading dimension 3
+[20:30:24] [Server thread/INFO] [FML]: Applying holder lookups
+[20:30:24] [Server thread/INFO] [FML]: Holder lookups applied
+[20:30:26] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[20:30:26] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[20:30:26] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

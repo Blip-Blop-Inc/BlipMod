@@ -1,0 +1,40 @@
+Unsupposrted library path: C:\Users\Games\MCreatorWorkspaces\BlipMod\build\classes\java\api
+Unsupposrted library path: C:\Users\Games\MCreatorWorkspaces\BlipMod\build\resources\api
+Symbol range map extraction starting
+Processing 12 files
+startProcessing "net/mcreator/blipmod/ClientProxyblipmod.java" md5: 601d144759645c824c42a4969b356f7c
+endProcessing "net/mcreator/blipmod/ClientProxyblipmod.java"
+
+startProcessing "net/mcreator/blipmod/Elementsblipmod.java" md5: e9107c5c4786728e6690f28de848b504
+endProcessing "net/mcreator/blipmod/Elementsblipmod.java"
+
+startProcessing "net/mcreator/blipmod/IProxyblipmod.java" md5: b0d553b129b86ae68ecb4e54c44a5b29
+endProcessing "net/mcreator/blipmod/IProxyblipmod.java"
+
+startProcessing "net/mcreator/blipmod/MCreatorBlipDimension.java" md5: 2f644d334defa5c6d40e315834efbe90
+endProcessing "net/mcreator/blipmod/MCreatorBlipDimension.java"
+
+startProcessing "net/mcreator/blipmod/MCreatorBlipIgniter.java" md5: 2abebf68752ef0fc78c2341b639e3339
+endProcessing "net/mcreator/blipmod/MCreatorBlipIgniter.java"
+
+startProcessing "net/mcreator/blipmod/MCreatorBlipIngot.java" md5: 3f9f7a3eee7550ed0bac31f1c013e215
+endProcessing "net/mcreator/blipmod/MCreatorBlipIngot.java"
+
+startProcessing "net/mcreator/blipmod/MCreatorBlipOre.java" md5: 272c7380858157bb0732c23be3ba1cd2
+endProcessing "net/mcreator/blipmod/MCreatorBlipOre.java"
+
+startProcessing "net/mcreator/blipmod/MCreatorBlipPickaxe.java" md5: a9bc75dabceb637b7a8161465fb82d66
+endProcessing "net/mcreator/blipmod/MCreatorBlipPickaxe.java"
+
+startProcessing "net/mcreator/blipmod/MCreatorBlipPortalBlock.java" md5: fbf4d8125dc5852e73190850a0651d57
+endProcessing "net/mcreator/blipmod/MCreatorBlipPortalBlock.java"
+
+startProcessing "net/mcreator/blipmod/ServerProxyblipmod.java" md5: 9f257922c3817d0370da67019d602469
+endProcessing "net/mcreator/blipmod/ServerProxyblipmod.java"
+
+startProcessing "net/mcreator/blipmod/blipmod.java" md5: f30ca80edc5eec5f4cb864d83014b451
+endProcessing "net/mcreator/blipmod/blipmod.java"
+
+startProcessing "net/mcreator/blipmod/blipmodVariables.java" md5: 2c9523d311140b047922b56c9e39b498
+endProcessing "net/mcreator/blipmod/blipmodVariables.java"
+

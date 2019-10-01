@@ -1,0 +1,19 @@
+{
+  "group": "blipmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:egg"
+    },
+    "1": {
+      "item": "blipmod:blipingot"
+    }
+  },
+  "result": {
+    "item": "blipmod:blipigniter",
+    "count": 1
+  }
+}

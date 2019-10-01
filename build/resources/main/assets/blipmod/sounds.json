@@ -1,0 +1,11 @@
+{
+  "Blip Blop": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "blipmod:blipblop",
+        "stream": false
+      }
+    ]
+  }
+}

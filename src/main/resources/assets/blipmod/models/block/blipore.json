@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blipmod:blocks/blipblock_bottom",
+    "up": "blipmod:blocks/creeperface",
+    "north": "blipmod:blocks/blipblock_side",
+    "east": "blipmod:blocks/blipblock_side",
+    "south": "blipmod:blocks/blipblock_side",
+    "west": "blipmod:blocks/blipblock_side",
+    "particle": "blipmod:blocks/blipblock_bottom"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "blipmod:blipdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "blipmod:blipdimension_portal_ns"
+    },
+    "inventory": {
+      "model": "blipmod:blipdimension_portal_ns"
+    }
+  }
+}
