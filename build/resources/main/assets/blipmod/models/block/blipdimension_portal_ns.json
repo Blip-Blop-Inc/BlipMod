@@ -1,7 +1,7 @@
 {
   "textures": {
-    "particle": "blipmod:blocks/blipportalinside",
-    "portal": "blipmod:blocks/blipportalinside"
+    "particle": "blipmod:blocks/blipblock_bottom",
+    "portal": "blipmod:blocks/blipblock_bottom"
   },
   "elements": [
     {

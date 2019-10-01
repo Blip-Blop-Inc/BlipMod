@@ -2,12 +2,12 @@
   "_fv": 4,
   "_type": "block",
   "definition": {
-    "texture": "blipportalblock",
-    "textureTop": "blipportalblock",
-    "textureLeft": "blipportalblock",
-    "textureFront": "blipportalblock",
-    "textureRight": "blipportalblock",
-    "textureBack": "blipportalblock",
+    "texture": "blipportalblock_all",
+    "textureTop": "blipportalblock_all",
+    "textureLeft": "blipportalblock_all",
+    "textureFront": "blipportalblock_all",
+    "textureRight": "blipportalblock_all",
+    "textureBack": "blipportalblock_all",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -53,7 +53,7 @@
     },
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "GLASS"
+      "value": "STONE"
     },
     "luminance": 0.0,
     "unbreakable": false,

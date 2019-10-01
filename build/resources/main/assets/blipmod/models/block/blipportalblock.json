@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "blipmod:blocks/blipportalblock",
-    "up": "blipmod:blocks/blipportalblock",
-    "north": "blipmod:blocks/blipportalblock",
-    "east": "blipmod:blocks/blipportalblock",
-    "south": "blipmod:blocks/blipportalblock",
-    "west": "blipmod:blocks/blipportalblock",
-    "particle": "blipmod:blocks/blipportalblock"
+    "down": "blipmod:blocks/blipportalblock_all",
+    "up": "blipmod:blocks/blipportalblock_all",
+    "north": "blipmod:blocks/blipportalblock_all",
+    "east": "blipmod:blocks/blipportalblock_all",
+    "south": "blipmod:blocks/blipportalblock_all",
+    "west": "blipmod:blocks/blipportalblock_all",
+    "particle": "blipmod:blocks/blipportalblock_all"
   }
 }

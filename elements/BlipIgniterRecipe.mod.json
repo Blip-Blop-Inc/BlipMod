@@ -6,7 +6,7 @@
     "recipeRetstackSize": 1,
     "recipeShapeless": false,
     "recipeReturnStack": {
-      "value": "CUSTOM:BlipIgniter"
+      "value": "CUSTOM:BlipDimension"
     },
     "recipeSlots": [
       {

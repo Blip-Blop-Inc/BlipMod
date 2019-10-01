@@ -3,7 +3,7 @@
   "_type": "block",
   "definition": {
     "texture": "blipblock_bottom",
-    "textureTop": "creeperface",
+    "textureTop": "blipblock_top",
     "textureLeft": "blipblock_side",
     "textureFront": "blipblock_side",
     "textureRight": "blipblock_side",

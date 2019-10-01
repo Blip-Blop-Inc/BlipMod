@@ -49,7 +49,7 @@ public class MCreatorBlipPortalBlock extends Elementsblipmod.ModElement {
 			super(Material.ROCK);
 			setRegistryName("blipportalblock");
 			setUnlocalizedName("blipportalblock");
-			setSoundType(SoundType.GLASS);
+			setSoundType(SoundType.STONE);
 			setHarvestLevel("pickaxe", 1);
 			setHardness(1F);
 			setResistance(10F);
